@@ -1,0 +1,19 @@
+|  # | Ligand Name              | PubChem CID     | Molecular Formula | Function                                                                        
+| -: | ------------------------ | --------------- | ----------------- | --------------------------------------------------------------------------------                                   
+|  1 | **Remdesivir**           | 121304016       | C27H35N6O8P       | RNA polymerase inhibitor. Nucleotide analog antiviral (for benchmarking)                                                        
+|  2 | **Nirmatrelvir**         | 155903259       | C23H32F3N5O4      | Main Protease inhibitor (Paxlovid), potential indirect RBD impact                                                   
+|  3 | **Ritonavir**            | 392622          | C37H48N6O5S2      | CYP3A4 inhibitor (Paxlovid booster), Boosts Lopinavir bioavailability; potential antiviral activity                                            |  
+|  4 | **Lopinavir**            | 92727           | C37H48N4O5        | HIV protease inhibitor - previously studied for SARS-CoV-2                                                           
+|  5 | **Darunavir**            | 213039          | C27H37N3O7S       | HIV protease inhibitor                                                                
+|  6 | **Chloroquine**          | 2719            | C18H26ClN3        | Inhibits viral endosomal entry - early RBD entry studies                                                  
+|  7 | **Hydroxychloroquine**   | 3652            | C18H26ClN3O       | Analog of chloroquine                                                           
+|  8 | **Camostat Mesylate**    | 5284360         | C21H26N4O8S       | Serine protease (TMPRSS2) inhibitor – blocks spike priming                        
+|  9 | **Apilimod**             | 10173277        | C23H26N6O2        | Inhibits endosomal trafficking/fusion                                             
+| 10 | **Arbidol (Umifenovir)** | 131411          | C22H25BrN2O3S     | Blocks viral-host membrane fusion. Fusion inhibitor that directly binds spike protein                                              
+| 11 | **Favipiravir**          | 492405          | C5H4FN3O2         | RNA polymerase inhibitor                                                        
+| 12 | **Ivermectin**           | 6321424         | C48H74O14         | Inhibits importin-mediated nuclear transport. Proposed viral protein binder (controversial but relevant for docking studies)                                     
+| 13 | **Molnupiravir**         | 145996610       | C13H19N3O7        | RNA mutagen (oral antiviral); benchmark compound                                                      
+| 14 | **Ebselen**              | 3194            | C13H9NOSe         | inhibits viral proteases, antioxidant, studied for spike-related docking                                                   
+| 15 | **Nitazoxanide**         | 41684           | C12H9N3O5S        | Broad-spectrum antiviral/immunomodulator         
+| 16 | **Cepharanthine**        | 10206           | C37H38N2O6        |     
+| 17 | **Nelfinavir**           | 64143           | C32H45N3O4S       |

@@ -1,0 +1,63 @@
+position,original,mutant,label,evidence
+417,K,N,deleterious,Immune-escape hotspot; slightly lowers ACE2 affinity
+417,K,T,deleterious,Immune escape; compensatory when paired with N501Y
+452,L,R,beneficial,Enhances ACE2 binding and antibody evasion
+452,L,Q,beneficial,Analogous to L452R: increased transmissibility / escape
+478,T,K,beneficial,Strengthens ACE2 interaction; reduces antibody binding
+484,E,K,deleterious,Major neutralizing-antibody escape mutation
+484,E,A,neutral,Maintains escape with smaller structural penalty
+484,E,Q,neutral,Intermediate antibody-escape substitution
+501,N,Y,beneficial,≈10-fold higher ACE2 affinity; boosts infectivity
+477,S,N,beneficial,Improves ACE2 on-rate; mild escape
+439,N,K,beneficial,Raises ACE2 affinity and evades some mAbs
+339,G,D,neutral,Located in RBD core; contributes to altered antigenicity
+371,S,L,neutral,Alters RBD conformation; epistatic with neighbouring sites
+373,S,P,neutral,"Proline rigidifies β-core, stabilising RBD fold"
+375,S,F,neutral,Together with S373P modulates RBD stability
+440,N,K,deleterious,Linked to antibody resistance
+446,G,S,deleterious,Reduces class 3 antibody neutralisation
+486,F,V,deleterious,Key escape from vaccine-elicited sera
+496,G,S,neutral,Part of ACE2-contact ridge; affects binding network
+493,Q,R,beneficial,"Forms new salt bridge with ACE2, raising affinity"
+498,Q,R,beneficial,Synergises with N501Y for high ACE2 affinity
+505,Y,H,neutral,Modifies receptor-binding ridge electrostatics
+405,D,N,neutral,Located near RBM core; modest effect on binding
+408,R,S,neutral,Adjacency to D405N; contributes to BA.2 antigenic shift
+445,V,P,neutral,Modulates ACE2 ridge; enhances growth advantage
+445,V,H,neutral,Modulates ACE2 ridge; enhances growth advantage
+453,Y,F,neutral,Adapts to mustelid ACE2; partial human-serum escape
+456,F,L,beneficial,Increases ACE2 binding & antibody escape
+456,F,P,deleterious,Strong class-1 antibody escape
+489,Y,H,neutral,Perturbs class-1/2 epitope; slight ACE2 drop
+494,S,P,beneficial,Increases ACE2 binding and Ab evasion
+470,T,N,deleterious,Reduces ACE2 affinity; compensatory in combo
+485,G,R,deleterious,Ablates several class-2 antibodies
+490,F,S,deleterious,Escape from class-3 antibodies
+339,G,H,neutral,RBD core change shaping antigenicity
+371,S,F,neutral,Reduces Ab access in RBD-down conformation
+376,T,A,neutral,"Helps immune evasion, minor ACE2 effect"
+456,F,S,deleterious,Alters binding groove; lowers neutralization
+455,L,F,beneficial,↑ACE2 binding & antibody escape (FLip with F456)
+455,L,S,neutral,Reduces ACE2 affinity but increases immune evasion
+445,V,A,neutral,Ridge-modulating mutation; affects structure
+453,Y,H,neutral,Host adaptation; observed in R.1 lineage
+484,E,T,neutral,Omicron BA.2.86 variant; antibody escape
+484,E,I,neutral,Rare but shown to impact Ab binding mildly
+486,F,P,deleterious,Impairs binding & immune response
+486,F,S,neutral,Rare mutation in XBB.1.16; modest escape
+489,Y,A,deleterious,Structural disruption at Ab binding ridge
+493,Q,K,beneficial,Seen in BA.2.86; boosts interaction with ACE2
+494,S,L,neutral,Modifies ridge structure; neutral effect
+494,S,R,neutral,Alters interaction network
+496,G,R,deleterious,Disrupts ACE2-contact ridge
+498,Q,H,neutral,Weaker synergy than R; moderate ACE2 effect
+498,Q,Y,neutral,Rare experimental mutant; neutral effect
+501,N,T,neutral,Seen in B.1.604; ACE2-neutral
+505,Y,F,neutral,Structurally conservative; mild escape
+346,R,K,neutral,"Ab escape, especially class-3"
+346,R,T,deleterious,Immune escape; structural instability
+346,R,S,neutral,Class-3 escape; low ACE2 impact
+483,V,A,neutral,Minor immune escape
+483,V,I,neutral,Immune-escape hotspot
+477,S,I,neutral,India lineage; ACE2 binding increase
+477,S,G,neutral,BA.2.86; mild functional impact

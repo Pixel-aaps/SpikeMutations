@@ -1,0 +1,36 @@
+uniprot_id,position,original,mutant,clinical_significance,disease
+P0DTC2,417,K,N,pathogenic,COVID-19 increased immune evasion
+P0DTC2,417,K,T,pathogenic,COVID-19 immune escape (with N501Y)
+P0DTC2,452,L,R,pathogenic,Increased transmission rate
+P0DTC2,452,L,Q,likely_pathogenic,Immune evasion in emerging variants
+P0DTC2,478,T,K,pathogenic,Delta variant resistance to neutralizing antibodies
+P0DTC2,484,E,K,pathogenic,Major vaccine breakthrough mutations
+P0DTC2,484,E,A,uncertain_significance,Minor immune escape
+P0DTC2,484,E,Q,uncertain_significance,Intermediate escape mutation
+P0DTC2,501,N,Y,pathogenic,Alpha-like infectivity enhancement
+P0DTC2,477,S,N,pathogenic,Enhanced ACE2 binding
+P0DTC2,439,N,K,likely_pathogenic,Partial monoclonal antibody resistance
+P0DTC2,339,G,D,uncertain_significance,Antigenic shift in Omicron BA.1
+P0DTC2,371,S,L,benign,Structural change without clinical phenotype
+P0DTC2,373,S,P,benign,Stabilizing loop configuration
+P0DTC2,375,S,F,benign,Structural neutral variant
+P0DTC2,440,N,K,pathogenic,Antibody escape (REGN10933)
+P0DTC2,446,G,S,pathogenic,Class-3 antibody resistance
+P0DTC2,486,F,V,pathogenic,Vaccine serum escape
+P0DTC2,496,G,S,uncertain_significance,ACE2 binding alteration
+P0DTC2,493,Q,R,pathogenic,Forms salt bridge with ACE2
+P0DTC2,498,Q,R,pathogenic,Synergistic infectivity boost
+P0DTC2,505,Y,H,benign,Minor structural variant
+P0DTC2,405,D,N,uncertain_significance,Minor shift in RBM loop
+P0DTC2,408,R,S,uncertain_significance,Epistatic effect in BA.2
+P0DTC2,445,V,P,uncertain_significance,Growth advantage variant
+P0DTC2,445,V,H,uncertain_significance,Growth advantage variant
+P0DTC2,453,Y,F,likely_pathogenic,Adaptation to mink ACE2
+P0DTC2,456,F,L,pathogenic,Immune escape; enhanced ACE2 binding
+P0DTC2,456,F,P,pathogenic,Strong antibody escape
+P0DTC2,489,Y,H,uncertain_significance,ACE2 drop; epitope perturbation
+P0DTC2,494,S,P,pathogenic,Increased infectivity and escape
+
+
+position,original,mutant,clinical_significance,source,disease_context
+26,K,R,"Likely benign:contentReference[oaicite:0]{index=0}",ClinVar,"COVID-19 susceptibility (ACE2 receptor binding):contentReference[oaicite:1]{index=1}"
