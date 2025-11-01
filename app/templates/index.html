@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mutation Insight Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    body { background:#f6f8fa; }
+    .viewer { width:100%; height:420px; border-radius:8px; border:1px solid #e1e4e8; background:white; }
+    .card-compact { padding: 12px; }
+    pre#explain { white-space:pre-wrap; }
+    .ml-prediction { 
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 10px 0;
+    }
+    .prediction-badge {
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+  </style>
+  <script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark mb-3">
+    <div class="container-fluid">
+      <span class="navbar-brand mb-0 h1">Mutation Insight Dashboard</span>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row g-3">
+      <div class="col-md-4">
+        <div class="card card-compact">
+          <div class="card-body">
+            <h5>Input</h5>
+            <div class="mb-2">
+              <label class="form-label">Wild-type sequence (one-letter, no spaces)</label>
+              <textarea id="wt_seq" class="form-control" rows="4" placeholder="Paste FASTA sequence...">MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAIHVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT</textarea>
+            </div>
+            <div class="mb-2">
+              <label class="form-label">Mutation (format: D614G)</label>
+              <input id="mutation" type="text" class="form-control" placeholder="D614G">
+            </div>
+            <button id="analyzeBtn" class="btn btn-primary w-100">Analyze</button>
+            <hr>
+          </div>
+        </div>
+
+        <div class="card mt-3">
+          <div class="card-body">
+            <h6>Predicted Features</h6>
+            <ul id="feature_list" class="list-group list-group-flush"></ul>
+          </div>
+        </div>
+
+        <div class="card mt-3">
+          <div class="card-body">
+            <h6>Mutation</h6>
+            <pre id="explain" class="small"></pre>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-8">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card">
+              <div class="card-body">
+                <h6>Wild-type Structure</h6>
+                <div id="viewer_wt" class="viewer"></div>
+                <div class="mt-2"><small id="wt_info" class="text-muted"></small></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card">
+              <div class="card-body">
+                <h6>Mutant Structure</h6>
+                <div id="viewer_mut" class="viewer"></div>
+                <div class="mt-2"><small id="mut_info" class="text-muted"></small></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card mt-3">
+          <div class="card-body">
+            <h6>Drug Binding Predictions</h6>
+            <div id="drug_summary" class="mb-2" style="display:none;">
+              <small class="text-muted">
+                <span id="drug_stats"></span>
+              </small>
+            </div>
+            <table class="table table-sm" id="drug_table">
+              <thead><tr><th>Drug</th><th>Binding Score</th></tr></thead>
+              <tbody><tr><td colspan="2" class="text-center text-muted">Click Analyze to see predictions</td></tr></tbody>
+            </table> 
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- JS -->
+<script>
+function clearResults(){
+  document.getElementById('feature_list').innerHTML = '';
+  document.getElementById('explain').innerText = '';
+  document.getElementById('drug_table').querySelector('tbody').innerHTML = '<tr><td colspan="2" class="text-center text-muted">Click Analyze to see predictions</td></tr>';
+  document.getElementById('drug_summary').style.display = 'none';
+  document.getElementById('wt_info').innerText = '';
+  document.getElementById('mut_info').innerText = '';
+  $('#viewer_wt').empty();
+  $('#viewer_mut').empty();
+  const badge = document.getElementById('ml_prediction_badge');
+  if(badge) badge.remove();
+}
+
+function loadPDBToViewer(divId, pdbUrl, highlightResi){
+  let element = document.getElementById(divId);
+  element.innerHTML = ""; 
+  let config = { backgroundColor: 'white' };
+  let viewer = $3Dmol.createViewer(element, config);
+  const lower = (pdbUrl || '').toLowerCase();
+  const format = lower.endsWith('.cif') ? 'cif' : (lower.endsWith('.pdb') ? 'pdb' : 'pdb');
+  fetch(pdbUrl).then(r => {
+      if(!r.ok) throw new Error('HTTP '+r.status+' for '+pdbUrl);
+      return r.text();
+    }).then(function(pdb) {
+      viewer.addModel(pdb, format);
+      viewer.setStyle({}, {cartoon:{color:'spectrum'}});
+      if(highlightResi){
+        viewer.setStyle({resi: highlightResi}, {sphere:{radius:1.2}, stick:{}});
+      }
+      viewer.zoomTo();
+      viewer.render();
+  }).catch(err => {
+    console.error('Structure load failed for', pdbUrl, err);
+    element.innerHTML = "<div class='text-center text-muted p-4'>Structure not available</div>";
+  });
+}
+
+document.getElementById('analyzeBtn').addEventListener('click', function(){
+  clearResults();
+  const mutation = document.getElementById('mutation').value.trim();
+  const wt_seq = document.getElementById('wt_seq').value.replace(/\s+/g, '').trim();
+  if(!mutation || !wt_seq){
+    alert("Please provide WT sequence and mutation (e.g. D614G)");
+    return;
+  }
+  this.disabled = true;
+  this.innerText = 'Analyzing...';
+
+  fetch('/api/analyze', {
+    method: 'POST',
+    headers: { 'Content-Type':'application/json' },
+    body: JSON.stringify({ mutation: mutation, wt_sequence: wt_seq })
+  }).then(r => r.json()).then(data => {
+    document.getElementById('analyzeBtn').disabled = false;
+    document.getElementById('analyzeBtn').innerText = 'Analyze';
+    if(data.error){
+      alert("Error: " + data.error);
+      return;
+    }
+
+    const f = data.features;
+    const ul = document.getElementById('feature_list');
+    ul.innerHTML = '';
+    const addLI = (k,v) => { 
+      let li = document.createElement('li'); 
+      li.className='list-group-item'; 
+      li.innerHTML = `<strong>${k}:</strong> ${v}`; 
+      ul.appendChild(li); 
+    };
+    addLI('Mutation', f.mutation);
+    addLI('ΔΔG (kcal/mol)', f.ddg_kcal_mol);
+    addLI('Polarity change', f.polarity_change);
+    addLI('Charge change', f.charge_change);
+    addLI('Conservation', f.conservation);
+    addLI('Binding impact', f.binding_impact);
+
+    const mlContainer = document.createElement('div');
+    mlContainer.className = 'ml-prediction';
+    mlContainer.id = 'ml_prediction_badge';
+    
+    let predictionText = f.ml_prediction;
+    let icon = '';
+    if(f.ml_prediction === 'beneficial') {
+      predictionText = 'Beneficial';
+      icon = '✓';
+    } else if(f.ml_prediction === 'deleterious') {
+      predictionText = 'Harmful';
+      icon = '⚠';
+    } else {
+      predictionText = 'Neutral';
+      icon = '○';
+    }
+    
+    mlContainer.innerHTML = `
+      <div class="prediction-badge">
+        <span style="font-size: 1.3em; margin-right: 8px;">${icon}</span>
+        ML Prediction: ${predictionText}
+      </div>
+      <!--
+      <div style="font-size: 0.9em; margin-top: 5px;">
+        Confidence: ${(f.ml_score * 100).toFixed(1)}%
+      </div>
+      -->
+    `;
+    ul.appendChild(mlContainer);
+
+    document.getElementById('explain').innerText = data.explanation || '';
+
+    if(data.drug_predictions && !data.drug_predictions.error) {
+      const drugData = data.drug_predictions;
+      const tbody = document.getElementById('drug_table').querySelector('tbody');
+      tbody.innerHTML = '';
+      
+      if(drugData.summary) {
+        const stats = drugData.summary;
+        document.getElementById('drug_stats').innerHTML = 
+          `Avg: ${stats.average_binding.toFixed(3)} | Max: ${stats.max_binding.toFixed(3)} | Min: ${stats.min_binding.toFixed(3)} | Drugs: ${stats.total_drugs}`;
+        document.getElementById('drug_summary').style.display = 'block';
+      }
+      
+      if(drugData.top_drugs) {
+        drugData.top_drugs.forEach(([drug, score]) => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td><strong>${drug}</strong></td>
+            <td>${score.toFixed(3)}</td>
+          `;
+          tbody.appendChild(row);
+        });
+      }
+    } else {
+      // Show error or no data message
+      const tbody = document.getElementById('drug_table').querySelector('tbody');
+      tbody.innerHTML = '<tr><td colspan="2" class="text-center text-muted">Drug predictions not available</td></tr>';
+    }
+
+    // Load structures
+    const wt_url = data.wildtype_pdb;
+    const mut_url = data.mutant_pdb;
+    const m = mutation.match(/^([A-Za-z])(\d+)([A-ZaZ])$/);
+    const resi = m ? parseInt(m[2]) : null;
+    
+    // Load wild-type structure
+    if(wt_url) {
+      loadPDBToViewer('viewer_wt', wt_url, resi);
+      document.getElementById('wt_info').innerText = 'Wild-type structure loaded';
+    }
+    
+    // Load mutant structure (or fallback to wild-type)
+    if(mut_url) {
+      loadPDBToViewer('viewer_mut', mut_url, resi);
+      document.getElementById('mut_info').innerText = 'Mutant structure loaded';
+    } else {
+      // Fallback to wild-type structure
+      loadPDBToViewer('viewer_mut', wt_url, resi);
+      document.getElementById('mut_info').innerText = 'Using wild-type structure (mutant structure not available)';
+    }
+  }).catch(err => {
+    document.getElementById('analyzeBtn').disabled = false;
+    document.getElementById('analyzeBtn').innerText = 'Analyze';
+    alert("Unexpected error: " + err);
+  });
+});
+</script>
+
+  <script>
+    window.addEventListener("DOMContentLoaded", function() {
+  // Automatically load wild-type structure on left viewer when page opens
+  // Try external AlphaFold model first, then fallback to bundled
+  const tryUrls = [
+    "/structures/wt/fold_2025_07_21_20_47_model_0.cif",
+    "/structures/spike_model_0.cif"
+  ];
+  (async function(){
+    for(const url of tryUrls){
+      try {
+        await fetch(url, {method:'HEAD'}).then(r => { if(!r.ok) throw new Error(r.status); });
+        loadPDBToViewer("viewer_wt", url, null);
+        // document.getElementById('wt_info').innerText = url;
+        return;
+      } catch(e){
+        console.warn('WT structure not reachable at', url, e);
+      }
+    }
+    document.getElementById('viewer_wt').innerHTML = "<div class='text-center text-muted p-4'>WT structure unavailable</div>";
+  })();
+    });
+  </script>
+</body>
+</html>

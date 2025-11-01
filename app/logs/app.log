@@ -1,0 +1,1070 @@
+2025-09-17 11:36:15,844 INFO app Application starting...
+2025-09-17 11:36:15,846 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:36:15,847 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:36:15,854 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:36:19,072 INFO app Application starting...
+2025-09-17 11:36:19,073 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:36:19,074 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:36:19,078 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:36:23,931 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:36:24,631 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:38:44,569 INFO app Application starting...
+2025-09-17 11:38:44,570 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:38:44,570 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:38:44,577 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:38:47,618 INFO app Application starting...
+2025-09-17 11:38:47,618 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:38:47,619 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:38:47,625 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:38:50,703 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:38:51,108 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:40:36,581 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:40:36,734 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:58:15,272 INFO app Application starting...
+2025-09-17 11:58:15,275 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:58:15,277 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:58:15,284 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:58:19,757 INFO app Application starting...
+2025-09-17 11:58:19,758 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 11:58:19,759 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 11:58:19,765 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 11:58:26,510 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:58:27,365 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:58:35,351 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:58:35,467 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 11:58:35,497 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:09:25,030 INFO app Application starting...
+2025-09-17 12:09:25,033 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:09:25,034 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:09:25,041 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:09:29,397 INFO app Application starting...
+2025-09-17 12:09:29,398 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:09:29,400 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:09:29,409 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:09:38,125 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:09:38,863 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:10:00,108 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:10:00,248 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:10:00,284 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:10:56,133 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:10:56,297 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:16:02,077 INFO app Application starting...
+2025-09-17 12:16:02,081 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:16:02,084 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:16:02,086 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:16:02,106 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:16:14,391 INFO app Application starting...
+2025-09-17 12:16:14,393 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:16:14,395 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:16:14,397 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:16:14,407 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:17:00,644 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:17:00,649 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:17:01,331 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:17:01,450 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:18:22,568 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:18:22,571 INFO app Using specific mutant structure for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:18:22,730 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:18:22,761 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:22:51,848 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:22:51,852 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:22:52,148 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:22:52,437 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:23:02,578 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:23:02,580 INFO app Using specific mutant structure for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:23:02,632 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:23:02,664 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:24:54,854 INFO app Application starting...
+2025-09-17 12:24:54,856 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:24:54,857 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:24:54,858 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:24:54,869 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:25:09,755 INFO app Application starting...
+2025-09-17 12:25:09,757 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:25:09,759 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:25:09,760 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:25:09,774 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:25:14,187 INFO app Application starting...
+2025-09-17 12:25:14,188 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:25:14,190 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:25:14,191 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:25:14,211 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:25:43,628 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:25:43,943 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:25:45,093 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:25:45,235 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:25:51,888 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:25:52,064 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:05,218 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:05,220 INFO app Using specific mutant structure for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:05,345 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:05,370 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:12,555 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:12,555 INFO app Using default mutant structure: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:12,596 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:12,620 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:21,862 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:21,864 INFO app Using specific mutant structure for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:21,909 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:21,933 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:28,624 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:28,627 INFO app Using default mutant structure: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:26:28,665 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:26:28,689 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:34:09,075 INFO app Application starting...
+2025-09-17 12:34:09,077 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:34:09,079 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:34:09,080 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:34:09,093 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:34:14,027 INFO app Application starting...
+2025-09-17 12:34:14,028 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:34:14,030 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:34:14,031 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:34:14,040 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:34:23,973 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:24,303 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:25,163 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:26,262 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:35,504 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:35,508 INFO app Using specific mutant structure for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:34:35,631 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:34:35,657 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:35:12,613 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:35:12,866 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:35:26,342 INFO app Application starting...
+2025-09-17 12:35:26,346 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:35:26,364 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:35:26,423 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:35:29,022 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:35:29,353 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:35:29,495 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:37:35,925 INFO app Application starting...
+2025-09-17 12:37:35,929 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:37:35,930 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:37:35,932 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:37:35,944 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:37:56,197 INFO app Application starting...
+2025-09-17 12:37:56,199 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:37:56,201 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:37:56,202 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:37:56,210 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:38:15,985 INFO app Application starting...
+2025-09-17 12:38:15,988 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:38:15,990 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:38:15,991 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:38:15,998 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:38:20,467 INFO app Application starting...
+2025-09-17 12:38:20,468 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:38:20,470 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:38:20,472 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:38:20,478 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:38:38,171 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:38:38,717 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:38:45,966 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:38:45,969 INFO app Using curated mutant for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:38:46,349 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:15,830 INFO app Application starting...
+2025-09-17 12:39:15,849 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:39:15,853 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:39:15,869 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:39:19,836 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:22,950 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:23,234 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:28,809 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:28,858 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:39:28,887 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:28,169 INFO app Application starting...
+2025-09-17 12:41:28,171 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:41:28,172 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:41:28,175 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:41:28,186 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:41:34,487 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:35,069 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:48,016 INFO app Application starting...
+2025-09-17 12:41:48,019 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:41:48,020 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:41:48,021 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:41:48,031 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:41:49,832 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:49,834 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:41:49,889 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:59,291 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:41:59,293 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:41:59,337 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:44:53,495 INFO app Application starting...
+2025-09-17 12:44:53,497 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:44:53,498 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:44:53,499 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:44:53,509 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:44:58,331 INFO app Application starting...
+2025-09-17 12:44:58,333 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 12:44:58,334 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 12:44:58,335 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 12:44:58,346 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 12:45:06,442 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:06,892 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:07,169 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:07,571 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:16,121 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:16,124 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 12:45:16,255 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 12:45:16,282 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:00:47,727 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:00:48,325 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:00:54,760 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:00:54,853 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:00:54,874 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:01:18,134 ERROR app /api/analyze failed: Wild-type amino acid mismatch: expected V, found I
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 125, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 169, in compute_features
+    raise ValueError(f"Wild-type amino acid mismatch: expected {wt_aa}, found {wt_seq[position]}")
+ValueError: Wild-type amino acid mismatch: expected V, found I
+2025-09-17 13:01:29,203 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:01:29,206 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:01:29,243 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:01:29,298 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:13:05,401 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:13:05,578 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:13:05,606 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:14:38,352 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:14:38,763 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:14:44,591 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:14:44,594 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:14:44,639 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:14:44,662 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:17:31,147 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:17:31,294 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:17:36,021 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:17:36,024 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:17:36,060 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:17:36,080 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:18:55,946 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:18:55,992 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:18:56,012 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:02,595 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:02,635 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:02,657 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:18,639 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:18,641 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:19:18,684 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:19:18,704 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:41:07,084 INFO app Application starting...
+2025-09-17 13:41:07,087 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 13:41:07,088 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 13:41:07,089 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 13:41:07,098 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 13:41:13,983 INFO app Application starting...
+2025-09-17 13:41:13,987 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 13:41:13,990 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 13:41:13,992 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 13:41:14,022 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 13:41:20,358 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:41:21,217 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:41:40,766 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:41:40,769 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 13:41:40,927 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 13:41:40,959 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 18:19:43,355 INFO app Application starting...
+2025-09-17 18:19:43,359 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 18:19:43,363 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 18:19:43,365 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 18:19:43,374 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 18:19:49,535 INFO app Application starting...
+2025-09-17 18:19:49,537 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 18:19:49,539 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 18:19:49,540 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 18:19:49,551 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 18:20:54,793 INFO app Application starting...
+2025-09-17 18:20:54,809 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 18:20:54,820 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 18:20:54,824 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 18:20:54,839 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-17 18:20:59,007 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 18:20:59,485 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 18:21:09,239 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 18:21:09,243 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 18:21:09,408 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-17 18:21:09,471 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-17 18:23:11,739 INFO app Application starting...
+2025-09-17 18:23:11,751 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-17 18:23:11,753 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-17 18:23:11,761 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-17 18:23:11,780 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 00:13:18,241 INFO app Application starting...
+2025-09-18 00:13:18,243 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 00:13:18,244 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 00:13:18,244 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 00:13:18,251 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 00:13:21,561 INFO app Application starting...
+2025-09-18 00:13:21,563 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 00:13:21,564 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 00:13:21,565 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 00:13:21,571 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 00:13:31,681 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:13:32,029 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:13:39,013 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:13:39,015 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 00:13:39,099 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:13:39,122 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 00:15:38,784 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:15:38,945 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:15:45,269 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:15:45,273 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 00:15:45,333 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:15:45,369 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 00:23:22,042 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:23:22,178 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:23:37,214 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:23:37,217 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 00:23:37,514 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 00:23:37,538 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:10:19,008 INFO app Application starting...
+2025-09-18 11:10:19,010 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:10:19,011 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:10:19,011 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:10:19,017 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:10:24,265 INFO app Application starting...
+2025-09-18 11:10:24,266 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:10:24,267 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:10:24,267 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:10:24,274 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:10:41,701 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:42,233 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:42,502 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:43,545 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:44,018 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:44,102 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:53,985 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:53,988 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:10:54,425 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:10:54,467 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:11:10,539 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:10,642 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:10,694 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:25,468 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:25,612 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:25,647 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:55,993 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:56,124 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:11:56,159 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:04,034 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:04,152 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:04,186 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:08,981 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:09,097 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:09,133 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:15,493 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:15,613 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:15,653 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:21,859 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:21,967 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:12:22,028 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:04,868 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:04,871 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:13:04,999 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:05,038 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:13:16,722 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:16,834 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:16,867 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:25,000 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:25,128 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:25,163 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:37,997 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:38,127 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:38,164 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:51,716 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:51,831 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:13:51,902 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:03,373 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:03,655 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:11,124 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:11,314 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:20,429 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:20,443 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:15:20,543 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:20,572 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:15:33,653 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:33,782 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:15:33,820 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:05,425 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:05,428 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:16:05,553 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:05,585 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:16:15,262 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:15,517 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:15,587 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:29,026 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:29,129 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:29,165 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:45,637 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:45,744 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:45,789 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:16:51,149 ERROR app /api/analyze failed: Invalid mutation format: N331II. Expected format: D614G
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 125, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 158, in compute_features
+    raise ValueError(f"Invalid mutation format: {mutation}. Expected format: D614G")
+ValueError: Invalid mutation format: N331II. Expected format: D614G
+2025-09-18 11:16:59,990 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:00,078 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:00,110 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:11,573 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:11,674 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:11,709 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:18,524 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:18,626 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:18,667 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:29,449 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:29,552 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:17:29,590 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:15,943 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:16,063 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:16,102 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:26,053 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:26,153 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:26,186 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:31,759 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:31,864 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:31,902 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:38,357 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:38,476 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:20:38,502 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:21:05,198 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:21:05,322 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:21:05,388 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:24:02,435 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:24:02,527 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:24:02,564 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:50:08,370 INFO app Application starting...
+2025-09-18 11:50:08,373 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:50:08,374 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:50:08,376 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:50:08,395 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:52:56,221 INFO app Application starting...
+2025-09-18 11:52:56,222 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:52:56,223 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:52:56,224 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:52:56,234 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:53:00,345 INFO app Application starting...
+2025-09-18 11:53:00,346 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:53:00,346 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:53:00,347 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:53:00,355 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:53:04,105 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:05,120 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:15,042 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:15,044 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-18 11:53:15,183 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:15,214 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-18 11:53:28,266 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:28,364 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:28,458 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:35,216 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:35,220 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:53:35,285 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:53:35,314 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:55:35,516 INFO app Application starting...
+2025-09-18 11:55:35,518 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:55:35,518 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:55:35,519 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:55:35,525 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:55:39,030 INFO app Application starting...
+2025-09-18 11:55:39,031 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 11:55:39,031 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 11:55:39,032 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 11:55:39,037 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 11:55:49,905 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:55:50,309 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:02,840 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:02,841 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:56:02,948 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:02,971 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:56:38,226 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:38,357 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:44,521 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:44,523 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:56:44,591 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:44,613 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:56:54,023 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:54,027 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-18 11:56:54,097 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:56:54,125 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-18 11:58:42,787 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:58:42,950 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:58:57,967 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:58:57,968 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:58:58,037 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 11:58:58,103 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 11:59:00,824 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:00:44,558 INFO app Application starting...
+2025-09-18 12:00:44,559 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 12:00:44,560 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 12:00:44,561 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 12:00:44,570 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 12:00:55,469 INFO app Application starting...
+2025-09-18 12:00:55,470 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 12:00:55,471 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 12:00:55,471 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 12:00:55,483 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 12:00:57,172 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:00:57,588 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:09,035 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:09,037 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 12:01:09,082 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:09,104 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 12:01:24,530 INFO app Application starting...
+2025-09-18 12:01:24,530 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 12:01:24,531 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 12:01:24,532 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 12:01:24,537 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 12:01:26,201 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:26,501 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:30,969 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:30,971 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 12:01:31,030 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:01:31,051 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 12:59:14,348 INFO app Application starting...
+2025-09-18 12:59:14,350 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 12:59:14,351 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 12:59:14,351 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 12:59:14,359 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 12:59:21,246 INFO app Application starting...
+2025-09-18 12:59:21,248 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-18 12:59:21,248 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-18 12:59:21,249 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-18 12:59:21,257 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-18 12:59:28,338 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:59:29,213 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:59:55,144 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:59:55,149 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 12:59:55,316 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 12:59:55,360 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-18 13:00:31,596 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 13:00:31,701 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-18 13:00:31,740 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-24 14:39:31,918 INFO app Application starting...
+2025-09-24 14:39:31,920 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-24 14:39:31,921 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-24 14:39:31,922 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-24 14:39:31,930 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-24 14:39:38,429 INFO app Application starting...
+2025-09-24 14:39:38,431 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-24 14:39:38,432 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-24 14:39:38,434 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-24 14:39:38,443 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-24 14:39:44,787 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-24 14:39:48,883 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-24 14:42:41,733 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-24 14:42:41,949 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-24 14:42:41,994 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:44:55,578 INFO app Application starting...
+2025-09-25 10:44:55,580 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 10:44:55,581 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 10:44:55,582 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 10:44:55,591 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 10:45:03,930 INFO app Application starting...
+2025-09-25 10:45:03,933 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 10:45:03,940 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 10:45:03,951 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 10:45:04,034 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 10:45:12,367 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:45:16,882 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:48:57,350 INFO app Application starting...
+2025-09-25 10:48:57,506 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 10:48:57,513 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 10:48:57,518 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 10:48:57,547 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 10:49:22,400 INFO app Application starting...
+2025-09-25 10:49:22,402 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 10:49:22,402 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 10:49:22,403 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 10:49:22,420 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 10:49:32,590 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:49:37,319 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:49:45,922 ERROR app /api/analyze failed: Wild-type amino acid mismatch: expected N, found T
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 126, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 169, in compute_features
+    raise ValueError(f"Wild-type amino acid mismatch: expected {wt_aa}, found {wt_seq[position]}")
+ValueError: Wild-type amino acid mismatch: expected N, found T
+2025-09-25 10:49:57,117 ERROR app /api/analyze failed: Wild-type amino acid mismatch: expected N, found T
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 126, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 169, in compute_features
+    raise ValueError(f"Wild-type amino acid mismatch: expected {wt_aa}, found {wt_seq[position]}")
+ValueError: Wild-type amino acid mismatch: expected N, found T
+2025-09-25 10:50:07,953 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:50:08,164 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:50:08,210 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:50:27,863 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:50:28,016 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:50:28,059 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 10:52:13,973 INFO app Application starting...
+2025-09-25 10:52:13,974 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 10:52:13,974 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 10:52:13,975 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 10:52:13,986 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:00:29,300 INFO app Application starting...
+2025-09-25 11:00:29,301 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:00:29,301 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:00:29,308 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:00:29,321 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:00:48,652 INFO app Application starting...
+2025-09-25 11:00:48,656 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:00:48,664 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:00:48,665 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:00:48,684 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:01:02,000 INFO app Application starting...
+2025-09-25 11:01:02,000 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:01:02,001 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:01:02,002 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:01:02,018 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:01:20,282 INFO app Application starting...
+2025-09-25 11:01:20,283 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:01:20,283 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:01:20,284 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:01:20,293 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:01:35,343 INFO app Application starting...
+2025-09-25 11:01:35,344 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:01:35,344 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:01:35,345 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:01:35,351 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:01:41,519 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:01:44,606 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:01:51,292 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:01:51,573 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:01:51,594 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:02:07,497 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:02:07,552 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:02:07,577 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:04:38,457 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:04:38,468 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:04:38,815 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:04:38,846 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:05:15,910 INFO app Application starting...
+2025-09-25 11:05:15,911 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:05:15,911 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:05:15,912 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:05:15,919 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:05:43,149 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:05:45,782 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:06:28,701 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:06:28,703 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:06:28,761 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:06:28,788 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:07:10,327 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:07:10,558 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:07:19,685 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:07:19,686 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:07:19,726 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:07:19,751 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:29:39,235 INFO app Application starting...
+2025-09-25 11:29:39,236 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:29:39,236 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:29:39,237 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:29:39,242 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:29:43,998 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:29:46,896 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:29:54,131 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:29:54,247 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:29:54,272 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:30:03,459 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:30:03,460 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:30:03,496 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:30:03,526 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:32:39,177 INFO app Application starting...
+2025-09-25 11:32:39,179 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:32:39,179 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:32:39,180 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:32:39,186 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:32:42,783 INFO app Application starting...
+2025-09-25 11:32:42,784 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:32:42,784 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:32:42,785 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:32:42,793 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:32:46,602 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:32:49,718 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:32:58,240 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:32:58,365 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:32:58,390 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:33:07,207 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:33:07,209 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:33:07,250 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:33:07,273 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:36:23,429 INFO app Application starting...
+2025-09-25 11:36:23,431 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:36:23,432 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:36:23,432 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:36:23,438 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:37:08,331 INFO app Application starting...
+2025-09-25 11:37:08,332 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:37:08,334 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:37:08,335 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:37:08,354 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:37:29,746 INFO app Application starting...
+2025-09-25 11:37:29,747 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:37:29,747 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:37:29,748 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:37:29,754 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:37:36,324 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:37:36,654 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:37:39,880 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:37:45,198 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:37:45,199 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:37:59,503 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:38:25,954 INFO app Application starting...
+2025-09-25 11:38:25,956 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 11:38:25,957 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 11:38:25,965 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 11:38:25,974 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 11:38:34,787 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:38:37,656 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:38:42,431 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:38:42,433 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:38:42,824 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:38:42,867 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 11:40:10,948 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:40:11,215 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:40:11,239 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:40:25,202 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 11:40:25,350 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:06:35,789 INFO app Application starting...
+2025-09-25 12:06:35,791 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:06:35,793 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:06:35,795 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:06:35,805 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:06:44,902 INFO app Application starting...
+2025-09-25 12:06:44,904 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:06:44,904 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:06:44,905 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:06:44,914 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:06:51,626 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:06:55,088 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:07:04,924 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:07:04,926 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:07:05,093 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:07:05,139 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:07:35,415 INFO app Application starting...
+2025-09-25 12:07:35,416 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:07:35,418 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:07:35,419 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:07:35,429 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:16:43,616 INFO app Application starting...
+2025-09-25 12:16:43,618 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:16:43,619 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:16:43,620 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:16:43,630 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:17:00,741 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:17:05,356 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:17:09,703 ERROR app /api/analyze failed: '<' not supported between instances of 'dict' and 'dict'
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 133, in analyze
+    drug_predictions = get_drug_binding_summary(mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\drug_predictor.py", line 170, in get_drug_binding_summary
+    sorted_drugs = sorted(predictions.items(), key=lambda x: x[1], reverse=True)
+TypeError: '<' not supported between instances of 'dict' and 'dict'
+2025-09-25 12:17:15,890 ERROR app /api/analyze failed: '<' not supported between instances of 'dict' and 'dict'
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 133, in analyze
+    drug_predictions = get_drug_binding_summary(mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\drug_predictor.py", line 170, in get_drug_binding_summary
+    sorted_drugs = sorted(predictions.items(), key=lambda x: x[1], reverse=True)
+TypeError: '<' not supported between instances of 'dict' and 'dict'
+2025-09-25 12:22:09,540 INFO app Application starting...
+2025-09-25 12:22:09,543 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:22:09,546 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:22:09,548 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:22:09,557 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:22:15,358 INFO app Application starting...
+2025-09-25 12:22:15,359 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:22:15,363 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:22:15,367 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:22:15,375 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:22:21,699 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:25,104 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:29,307 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:29,311 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:22:29,600 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:29,630 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:22:36,143 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:36,145 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:22:36,216 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:22:36,255 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:24:34,520 INFO app Application starting...
+2025-09-25 12:24:34,521 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:24:34,521 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:24:34,522 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:24:34,528 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:25:17,426 INFO app Application starting...
+2025-09-25 12:25:17,427 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:25:17,428 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:25:17,429 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:25:17,437 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:26:41,790 INFO app Application starting...
+2025-09-25 12:26:41,791 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:26:41,792 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:26:41,793 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:26:41,802 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:27:05,244 INFO app Application starting...
+2025-09-25 12:27:05,245 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:27:05,246 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:27:05,248 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:27:05,262 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:27:11,095 INFO app Application starting...
+2025-09-25 12:27:11,096 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:27:11,096 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:27:11,097 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:27:11,108 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:27:15,077 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:27:19,088 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:27:24,123 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:27:24,125 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:27:40,015 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:27:49,360 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:29:31,905 INFO app Application starting...
+2025-09-25 12:29:31,909 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:29:31,910 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:29:31,913 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:29:31,948 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:29:38,243 INFO app Application starting...
+2025-09-25 12:29:38,244 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:29:38,245 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:29:38,246 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:29:38,260 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:29:41,014 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:29:44,409 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:29:48,757 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:29:48,759 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:30:15,166 INFO app Application starting...
+2025-09-25 12:30:15,167 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:30:15,168 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:30:15,177 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:30:15,208 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:30:17,550 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:30:17,908 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:30:26,623 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:30:26,704 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:30:26,747 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:42:22,975 INFO app Application starting...
+2025-09-25 12:42:22,979 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:42:22,982 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:42:22,984 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:42:22,991 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:42:28,957 INFO app Application starting...
+2025-09-25 12:42:28,961 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:42:28,962 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:42:28,963 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:42:28,975 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:42:44,328 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:42:48,944 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:42:53,463 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:42:53,469 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:42:53,689 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:42:53,854 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:43:17,269 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:43:17,355 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:43:17,401 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:45:41,696 INFO app Application starting...
+2025-09-25 12:45:41,697 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:45:41,698 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:45:41,699 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:45:41,727 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:45:46,999 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:45:51,329 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:45:54,992 ERROR app /api/analyze failed: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 140, in analyze
+    score = d.get('binding_score', 0)
+            ^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2025-09-25 12:46:00,462 ERROR app /api/analyze failed: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 140, in analyze
+    score = d.get('binding_score', 0)
+            ^^^^^
+AttributeError: 'str' object has no attribute 'get'
+2025-09-25 12:46:51,676 INFO app Application starting...
+2025-09-25 12:46:51,682 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:46:51,683 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:46:51,685 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:46:51,750 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:46:57,745 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:02,147 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:06,117 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:06,121 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:47:06,318 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:06,431 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:47:11,489 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:11,491 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:47:11,559 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:11,596 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:47:15,116 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:15,119 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:47:15,190 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:47:15,241 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:48:45,680 INFO app Application starting...
+2025-09-25 12:48:45,682 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:48:45,683 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:48:45,683 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:48:45,698 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:48:49,449 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:48:53,537 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:49:05,357 ERROR app /api/analyze failed: Wild-type amino acid mismatch: expected D, found G
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 126, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 169, in compute_features
+    raise ValueError(f"Wild-type amino acid mismatch: expected {wt_aa}, found {wt_seq[position]}")
+ValueError: Wild-type amino acid mismatch: expected D, found G
+2025-09-25 12:49:15,243 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:49:15,246 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:49:15,417 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:49:15,460 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:50:08,076 INFO app Application starting...
+2025-09-25 12:50:08,078 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:50:08,080 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:50:08,081 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:50:08,095 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:51:07,262 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:51:11,199 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:51:18,229 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:51:18,231 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:51:18,400 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:51:18,445 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:51:33,732 INFO app Application starting...
+2025-09-25 12:51:33,735 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:51:33,736 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:51:33,738 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:51:33,752 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:53:10,974 INFO app Application starting...
+2025-09-25 12:53:10,978 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:53:10,979 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:53:10,981 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:53:10,991 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:53:17,975 INFO app Application starting...
+2025-09-25 12:53:17,980 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:53:17,983 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:53:17,983 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:53:18,003 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:53:21,537 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:53:25,522 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:53:31,488 ERROR app /api/analyze failed: Wild-type amino acid mismatch: expected D, found G
+Traceback (most recent call last):
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\app.py", line 126, in analyze
+    features = compute_features(wt_seq, mutation)
+  File "c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\predictor.py", line 169, in compute_features
+    raise ValueError(f"Wild-type amino acid mismatch: expected {wt_aa}, found {wt_seq[position]}")
+ValueError: Wild-type amino acid mismatch: expected D, found G
+2025-09-25 12:53:40,881 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:53:41,019 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:53:41,053 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:55:39,247 INFO app Application starting...
+2025-09-25 12:55:39,249 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:55:39,250 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:55:39,251 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:55:39,259 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:55:45,968 INFO app Application starting...
+2025-09-25 12:55:45,970 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:55:45,971 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:55:45,972 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:55:45,987 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:55:49,312 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:55:53,204 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:55:57,198 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:55:57,201 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:55:57,372 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:55:57,419 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:56:35,361 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:35,363 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:35,435 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:35,471 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:42,224 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:42,227 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:42,299 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:42,367 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:44,803 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:44,805 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:44,867 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:44,907 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:48,532 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:48,534 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:56:48,593 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:56:48,651 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 12:57:27,504 INFO app Application starting...
+2025-09-25 12:57:27,507 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 12:57:27,511 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 12:57:27,512 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 12:57:27,526 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 12:57:34,903 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:39,248 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:45,834 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:45,836 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:57:45,999 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:46,062 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:57:48,124 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:48,126 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:57:48,195 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:48,263 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:57:49,769 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:49,771 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 12:57:49,831 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 12:57:49,875 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:05:18,420 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:18,425 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 13:05:18,491 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:18,523 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 13:05:28,144 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:28,203 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:28,251 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:41,737 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:41,739 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:05:41,798 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:41,844 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:05:48,236 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:48,238 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:05:48,303 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:48,342 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:05:57,109 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:57,110 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 13:05:57,172 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:05:57,206 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 13:06:19,325 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:19,388 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:19,433 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:25,305 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:25,373 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:25,417 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:35,838 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:35,910 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:35,957 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:43,328 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:43,392 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:43,429 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:50,329 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:50,387 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:06:50,445 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:32:02,086 INFO app Application starting...
+2025-09-25 13:32:02,088 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 13:32:02,089 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 13:32:02,090 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 13:32:02,103 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 13:32:08,990 INFO app Application starting...
+2025-09-25 13:32:08,991 INFO app STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\app\structures
+2025-09-25 13:32:08,997 INFO app WT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure
+2025-09-25 13:32:09,001 INFO app MUT_STRUCT_DIR: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures
+2025-09-25 13:32:09,022 INFO app Starting Flask dev server on http://127.0.0.1:5000
+2025-09-25 13:32:24,656 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:32:25,295 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:32:45,721 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:32:45,722 INFO app Curated mutant found for N331G: /structures/mutant/N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:32:45,881 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:32:45,933 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\N331G_Mutant/fold_2025_09_17_11_44_model_0.cif
+2025-09-25 13:33:17,634 INFO app Using WT external structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:33:17,636 INFO app Curated mutant found for I332L: /structures/mutant/I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
+2025-09-25 13:33:17,691 INFO app Serving WT structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Spike3Dstructure\fold_2025_07_21_20_47_model_0.cif
+2025-09-25 13:33:17,734 INFO app Serving mutant structure: c:\Users\avant\OneDrive\Desktop\VSCode\C++\SpikeMutations\data\external\Mutant3DStructures\I332L_Mutant/fold_2025_09_18_11_18_model_0.cif
